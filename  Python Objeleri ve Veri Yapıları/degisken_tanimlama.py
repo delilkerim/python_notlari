@@ -25,6 +25,7 @@ print(Age)
 print(AGE)
 
 # TODO: NOT=> tek satırda birden fazla değişkene değer atamak için öncelikle değişkenler virgüllerle yazılır. Daha sonra eşittir ifadesi ile yine değerleri aralara virgül konularak yazılır.
+x,y,name, isSuccessed = 12, 23.34, "kerim",True
 
 
 
